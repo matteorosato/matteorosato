@@ -6,7 +6,7 @@
 
  🐍 Python is my playground, where I express my creativity to develop software solutions that make an impact. Whether it's building scalable applications or optimizing algorithms, I'm always ready to tackle new coding challenges. 
 
-🗣️ Fluent in three languages— Italian, English, and Spanish —I believe in the power of effective communication and collaboration across borders, fostering connections and driving innovation on a global scale.
+🗣️ Fluent in three languages - Italian, English, and Spanish - I believe in the power of effective communication and collaboration across borders, fostering connections and driving innovation on a global scale.
 
  🚀 Get ready to code 'n' roll!  😎🤟
 
