@@ -9,6 +9,8 @@ Hello there! My name is Matteo, I'm a passionate software developer with a focus
 * 🤝  I'm open to collaborating on Data Science and Automation projects
 * ⚡  I love everything about wines and their world (but don't get it wrong 😂)
 
+ 📫 Want to reach me? Send an e-mail to: **matteorosato.dev@gmail.com**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteorosato) 
 
